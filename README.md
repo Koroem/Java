@@ -1,2 +1,1 @@
-# Java
-Repo java uni
+Repo pt labul de JAVA
